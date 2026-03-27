@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="copesos",
     version="0.2.0",
-    author="Hollman",
+    author="sumercesito",
     author_email="",
     description="Utilidades para proyectos colombianos",
     long_description=open("README.md", encoding="utf-8").read(),
